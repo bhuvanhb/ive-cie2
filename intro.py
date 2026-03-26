@@ -1,0 +1,5 @@
+print ("hello")
+print("my name is bhuvan")
+print("i am from 2nd year")
+print("section A")
+print("1RUA24SCS0019")
